@@ -1,2 +1,14 @@
-# SDN-Formal-Verification-Network-Slicing
-Formal verification of secure network slicing in Software Defined Networks using UPPAAL. Ensures deadlock-free communication, slice isolation, and correct packet delivery through model checking.
+# Formal Verification of SDN Network Slicing
+
+This project focuses on verifying the correctness of Software Defined Networks (SDN) using formal model checking.
+
+## Key Features
+- Verification of slice isolation
+- Deadlock-free network behavior
+- Correct packet delivery within slices
+- Prevention of unauthorized packet forwarding
+
+## Tools Used
+- UPPAAL (Model Checking)
+- SDN Architecture (Controller, Switch, Host)
+
